@@ -1,0 +1,12 @@
+D:\Development\Проекти\Git\DatabaseAdvisor\DatabaseAdvisor\DatabaseAdvisor\DatabaseAdvisor.Api\bin\Debug\DatabaseAdvisor.Api.dll.config
+D:\Development\Проекти\Git\DatabaseAdvisor\DatabaseAdvisor\DatabaseAdvisor\DatabaseAdvisor.Api\bin\Debug\DatabaseAdvisor.Api.dll
+D:\Development\Проекти\Git\DatabaseAdvisor\DatabaseAdvisor\DatabaseAdvisor\DatabaseAdvisor.Api\bin\Debug\DatabaseAdvisor.Api.pdb
+D:\Development\Проекти\Git\DatabaseAdvisor\DatabaseAdvisor\DatabaseAdvisor\DatabaseAdvisor.Api\bin\Debug\Newtonsoft.Json.dll
+D:\Development\Проекти\Git\DatabaseAdvisor\DatabaseAdvisor\DatabaseAdvisor\DatabaseAdvisor.Api\bin\Debug\System.Net.Http.Formatting.dll
+D:\Development\Проекти\Git\DatabaseAdvisor\DatabaseAdvisor\DatabaseAdvisor\DatabaseAdvisor.Api\bin\Debug\System.Web.Http.dll
+D:\Development\Проекти\Git\DatabaseAdvisor\DatabaseAdvisor\DatabaseAdvisor\DatabaseAdvisor.Api\bin\Debug\Newtonsoft.Json.xml
+D:\Development\Проекти\Git\DatabaseAdvisor\DatabaseAdvisor\DatabaseAdvisor\DatabaseAdvisor.Api\bin\Debug\System.Net.Http.Formatting.xml
+D:\Development\Проекти\Git\DatabaseAdvisor\DatabaseAdvisor\DatabaseAdvisor\DatabaseAdvisor.Api\bin\Debug\System.Web.Http.xml
+D:\Development\Проекти\Git\DatabaseAdvisor\DatabaseAdvisor\DatabaseAdvisor\DatabaseAdvisor.Api\obj\Debug\DatabaseAdvisor.Api.csprojResolveAssemblyReference.cache
+D:\Development\Проекти\Git\DatabaseAdvisor\DatabaseAdvisor\DatabaseAdvisor\DatabaseAdvisor.Api\obj\Debug\DatabaseAdvisor.Api.dll
+D:\Development\Проекти\Git\DatabaseAdvisor\DatabaseAdvisor\DatabaseAdvisor\DatabaseAdvisor.Api\obj\Debug\DatabaseAdvisor.Api.pdb

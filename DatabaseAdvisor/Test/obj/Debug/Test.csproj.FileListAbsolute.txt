@@ -1,0 +1,5 @@
+D:\Development\Проекти\Git\DatabaseAdvisor\DatabaseAdvisor\DatabaseAdvisor\Test\bin\Debug\Test.dll
+D:\Development\Проекти\Git\DatabaseAdvisor\DatabaseAdvisor\DatabaseAdvisor\Test\bin\Debug\Test.pdb
+D:\Development\Проекти\Git\DatabaseAdvisor\DatabaseAdvisor\DatabaseAdvisor\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+D:\Development\Проекти\Git\DatabaseAdvisor\DatabaseAdvisor\DatabaseAdvisor\Test\obj\Debug\Test.dll
+D:\Development\Проекти\Git\DatabaseAdvisor\DatabaseAdvisor\DatabaseAdvisor\Test\obj\Debug\Test.pdb
